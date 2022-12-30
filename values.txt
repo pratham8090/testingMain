@@ -1,0 +1,4 @@
+application_name_frontend=next-js-frontend 
+application_name_backend=next-js-backend 
+frontend_service_name=nextjs-service 
+application_url=kkhh.com 
